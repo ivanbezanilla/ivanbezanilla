@@ -1,5 +1,5 @@
 👋 Hola, yo soy @ivanbezanilla
-* 👀 Me interesa aprender y aprobar este curso 
+* 👀 Me interesa la informática y estilos relacionados 
 * 🌱 Estoy estudiando Administración de Sistemas Informáticos en Red (ASIR)
 * 📫 Contactame por _GitHub_
 
