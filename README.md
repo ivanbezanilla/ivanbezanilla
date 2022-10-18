@@ -1,7 +1,7 @@
 👋 Hola, yo soy @ivanbezanilla
 * 👀 Me interesa la informática y estilos relacionados 
 * 🌱 Estoy estudiando Administración de Sistemas Informáticos en Red (ASIR)
-* 📫 Me puedes contactar por _GitHub_
+* 📫 Me puedes contactar por GitHub
 
 **[Camaron de la isla](https://www.youtube.com/channel/UC8zicr_LQfQQvrpjzSRuTAw/featured)**
 
